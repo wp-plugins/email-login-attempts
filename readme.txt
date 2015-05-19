@@ -43,7 +43,7 @@ If you are using free email accounts, chances are your client has marked the ema
 
 == Changelog ==
 
-= 1.1.1
+= 1.1.1 =
 * Fixed bug, user name not listed on email
 
 = 1.1 =
